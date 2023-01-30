@@ -42,3 +42,11 @@ __Melhoria 1__, _melhoria 2_
 
 
 https://github.com/xandesilv
+
+#### Inserindo códigos
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
