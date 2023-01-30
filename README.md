@@ -32,3 +32,6 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Logos](img/front-end-banner.jpg)
+
+#### Imagem externa
+![Logo-ts](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0akfix87OdE&psig=AOvVaw2ZEyXzv_nG4C1NuNOWoNyc&ust=1675192526077000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiIqM6A8PwCFQAAAAAdAAAAABAD)
